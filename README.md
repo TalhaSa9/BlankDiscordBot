@@ -12,5 +12,3 @@ A template for a basic discord bot.
 - You can make changes in package.json.
 - You can customize bot prefix in config.json.
 - You can customize launcher in launcher.bat file.
-
-- *And you can make customizes and changes in index.js.*
