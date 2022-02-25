@@ -9,6 +9,7 @@ A template for a basic discord bot.
 - Paste your bot token to .env file.
 
 # What can you do:
+- You can make changes in package.json.
 - You can customize bot prefix in config.json.
 - You can customize launcher in launcher.bat file.
 
