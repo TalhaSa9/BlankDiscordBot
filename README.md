@@ -5,7 +5,7 @@ A template for a basic discord bot.
 **Bot needs discord.js and dotenv packages for to work.**
 
 # What you need to do:
-- Run "npm install" for automatically install the packages.
+- Run "npm install" for automatically install the packages. *(Don't need if you using cloud IDE, example: Glitch.)*
 - Paste your bot token to .env file.
 
 # What can you do:
